@@ -6,6 +6,7 @@
 
 
 VISÃO GERAL
+
 Calculadora desenvolvida em Java utilizando arquitetura MVC (Model-View-Controller) com interface gráfica Swing. Implementa as quatro operações matemáticas básicas seguindo princípios de programação orientada a objetos.
 
 ESTRUTURA DO PROJETO
