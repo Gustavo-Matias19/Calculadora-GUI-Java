@@ -1,6 +1,10 @@
 ﻿# Calculadora-GUI-Java
 
 ![image](https://github.com/user-attachments/assets/42f62252-5a04-475b-b8f8-8ef3f8e04bc7)
+
+-------------------------------------------------------------------------------------------------------------
+
+
 VISÃO GERAL
 Calculadora desenvolvida em Java utilizando arquitetura MVC (Model-View-Controller) com interface gráfica Swing. Implementa as quatro operações matemáticas básicas seguindo princípios de programação orientada a objetos.
 
